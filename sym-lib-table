@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FPC")(type "KiCad")(uri "${KIPRJMOD}/FPC.kicad_sym")(options "")(descr ""))
+)
